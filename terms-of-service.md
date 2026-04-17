@@ -50,6 +50,9 @@ The App is provided on an "AS IS" and "AS AVAILABLE" basis without any warrantie
 
 RepRise provides fitness tracking tools for informational purposes only. The App is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider before starting any exercise program.
 
+## AI Information
+AI-generated coaching responses are for informational purposes only. RepRise is not responsible for decisions made based on AI-generated content.
+
 ## Limitation of Liability
 
 To the maximum extent permitted by law, RepRise shall not be liable for any indirect, incidental, special, or consequential damages resulting from your use of the App.
