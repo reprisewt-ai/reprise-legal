@@ -31,6 +31,7 @@ We use the following third-party services:
 - **Firebase** (Google LLC) — Authentication, analytics, and crash reporting
 - **RevenueCat** — Subscription management and payment processing
 - **Apple App Store** — In-app purchases and subscriptions
+- **OpenAI — AI** coaching and weekly report generation. Workout data, body measurements, and profile information may be sent to OpenAI's API to generate personalized responses. See OpenAI Privacy Policy.
 
 These services may collect information used to identify you. Please refer to their respective privacy policies.
 
